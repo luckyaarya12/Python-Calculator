@@ -32,7 +32,10 @@ The design incorporates **emojis and clear prompts** to enhance the user experie
    ```bash
    python calculator.py
 5. Use the menu displayed in the console to:
-. Select the operation you want to perform
-. Enter the required numbers
-. View the result
+
+* Select the operation you want to perform
+
+* Enter the required numbers
+
+* View the result
 6. Repeat step 5 as needed. Select Exit 🚪 to close the calculator.
