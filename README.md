@@ -39,9 +39,9 @@ The design incorporates **emojis and clear prompts** to enhance the user experie
 
 * View the result
 6. Repeat step 5 as needed. Select Exit 🚪 to close the calculator.
- 🔹 Technologies Used
 
-Python
+🔹 Technologies Used
+   Python
 
 🔹 Skills Demonstrated
 
