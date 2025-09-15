@@ -31,3 +31,11 @@ The design incorporates **emojis and clear prompts** to enhance the user experie
 4. Run the script:  
    ```bash
    python calculator.py
+   Use the menu displayed in the console to:
+5. Select the operation you want to perform
+
+Enter the required numbers
+
+View the result
+
+6. Repeat step 5 as needed. Select Exit 🚪 to close the calculator.
