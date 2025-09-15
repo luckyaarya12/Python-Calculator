@@ -41,20 +41,21 @@ The design incorporates **emojis and clear prompts** to enhance the user experie
 6. Repeat step 5 as needed. Select Exit 🚪 to close the calculator.
 
 🔹 Technologies Used
+
    Python
 
 🔹 Skills Demonstrated
 
-Python Programming: Variables, data types, loops, and conditionals
+. Python Programming: Variables, data types, loops, and conditionals
 
-Problem-Solving: Designing logic for multiple operations
+. Problem-Solving: Designing logic for multiple operations
 
-User Interaction: Handling user input and displaying outputs clearly
+. User Interaction: Handling user input and displaying outputs clearly
 
-Error Handling: Managing division by zero and invalid inputs
+. Error Handling: Managing division by zero and invalid inputs
 
-Mathematical Operations: Basic arithmetic, percentage, exponentiation, modulo, floor division, and square root
+. Mathematical Operations: Basic arithmetic, percentage, exponentiation, modulo, floor division, and square root
 
-Command-Line Interface (CLI): Building interactive, menu-driven applications
+. Command-Line Interface (CLI): Building interactive, menu-driven applications
 
-Code Organization: Structuring code for readability and maintainability 
+. Code Organization: Structuring code for readability and maintainability 
