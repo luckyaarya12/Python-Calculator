@@ -1,61 +1,74 @@
-# 🖩 Simple Python Calculator
+🖩 Simple Python Calculator
+1️⃣ Overview
 
-## 🔹 Overview
-This is a **simple command-line calculator** built with Python.  
-It provides a user-friendly interface for performing various mathematical operations.  
-The calculator runs in a **continuous loop**, allowing multiple calculations until you choose to exit.
+This is a simple command-line calculator built in Python.
+It provides a user-friendly interface for performing various mathematical operations and runs in a continuous loop, allowing multiple calculations until you choose to exit.
 
----
+✨ The design incorporates emojis and clear prompts to enhance the user experience.
 
-## 🔹 Features
-The calculator offers the following operations:  
-- Addition ➕  
-- Subtraction ➖  
-- Multiplication ✖️  
-- Division ➗ (with zero-division handling)  
-- Percentage 📊  
-- Exponentiation 🔼  
-- Remainder (Modulo) ➗  
-- Floor Division 🧮  
-- Square Root √  
-- Exit 🚪  
+2️⃣ Features
 
-The design incorporates **emojis and clear prompts** to enhance the user experience.
+The calculator supports the following operations:
 
----
+➕ Addition
 
-## 🔹 How to Use
-1. Ensure **Python** is installed on your system.  
-2. Save the code as a `.py` file (e.g., `calculator.py`).  
-3. Open your terminal or command prompt and navigate to the file's directory.  
-4. Run the script:  
-   ```bash
-   python calculator.py
-5. Use the menu displayed in the console to:
+➖ Subtraction
 
-* Select the operation you want to perform
+✖️ Multiplication
 
-* Enter the required numbers
+➗ Division (with zero-division handling)
 
-* View the result
-6. Repeat step 5 as needed. Select Exit 🚪 to close the calculator.
+📊 Percentage
 
-🔹 Technologies Used
+🔼 Exponentiation
 
-   Python
+🔢 Remainder (Modulo)
 
-🔹 Skills Demonstrated
+🧮 Floor Division
 
-. Python Programming: Variables, data types, loops, and conditionals
+√ Square Root
 
-. Problem-Solving: Designing logic for multiple operations
+🚪 Exit
 
-. User Interaction: Handling user input and displaying outputs clearly
+3️⃣ How to Use
 
-. Error Handling: Managing division by zero and invalid inputs
+🖥️ Ensure Python is installed on your system.
 
-. Mathematical Operations: Basic arithmetic, percentage, exponentiation, modulo, floor division, and square root
+💾 Save the code as a .py file (e.g., calculator.py).
 
-. Command-Line Interface (CLI): Building interactive, menu-driven applications
+📂 Open your terminal or command prompt and navigate to the file’s directory.
 
-. Code Organization: Structuring code for readability and maintainability 
+▶️ Run the script:
+
+python calculator.py
+
+
+📝 Use the menu displayed in the console to:
+
+Select the operation you want to perform
+
+Enter the required numbers
+
+View the result
+
+🔄 Repeat step 5 as needed. Select Exit 🚪 to close the calculator.
+
+4️⃣ Technologies Used
+
+🐍 Python
+
+5️⃣ Skills Demonstrated
+
+💻 Python Programming: Variables, data types, loops, and conditionals
+
+🧩 Problem-Solving: Designing logic for multiple operations
+
+🎛️ User Interaction: Handling user input and displaying outputs clearly
+
+⚠️ Error Handling: Managing division by zero and invalid inputs
+
+➗ Mathematical Operations: Basic arithmetic, percentage, exponentiation, modulo, floor division, and square root
+
+🖱️ Command-Line Interface (CLI): Building interactive, menu-driven applications
+
+📑 Code Organization: Structuring code for readability and maintainability
